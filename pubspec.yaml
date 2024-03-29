@@ -27,6 +27,7 @@ dev_dependencies:
   equatable: ^2.0.5
   image_picker: ^1.0.7
   loader_overlay: ^4.0.0
+  provider: ^6.1.2
 
   flutter_lints: ^3.0.0
 
